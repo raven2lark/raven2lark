@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raven2lark
-- 👀 I’m interested in R, SQL, analysis, spreadsheets, visualization, datasets
+- 👀 I’m interested in R, Python, SQL, analysis, spreadsheets, visualization, datasets
 - 🌱 I’m currently learning Google Data Analytics Specialization
 - 📫 How to reach me raven2lark/raven2lark
 
